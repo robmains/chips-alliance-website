@@ -3,6 +3,7 @@ members:
     url: https://www.amd.com/en
     image: amd.svg
     level: platinum
+    board_rep: Prabhu Jayanna
   - name: Antmicro
     url: https://antmicro.com/
     image: antmicro.png
